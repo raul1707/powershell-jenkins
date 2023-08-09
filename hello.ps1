@@ -1,2 +1,2 @@
-#!/usr/bin/pwsh -Command
+#!/snap/bin/pwsh -Command
 echo "Hello World!"
