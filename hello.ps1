@@ -1,2 +1,3 @@
-#!/snap/bin/env pwsh
+#!/usr/bin/pwsh -Command
 echo "Hello World!"
+
